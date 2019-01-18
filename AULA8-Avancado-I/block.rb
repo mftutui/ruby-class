@@ -64,6 +64,7 @@
 
 # 7
 # Bloco que ocupa várias linhas como parâmetro
+# Passando um bloco para outro bloco 
 def foo(numbers, &block)
     if block_given?
         numbers.each do |key, value|
