@@ -29,5 +29,6 @@ lapis.escrever
 puts "Caneta"
 caneta.escrever
 
-puts "Teclaro"
+puts "Teclad o"
 teclado.escrever
+
